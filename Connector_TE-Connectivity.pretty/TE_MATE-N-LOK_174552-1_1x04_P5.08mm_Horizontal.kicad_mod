@@ -1,4 +1,4 @@
-(module TE_MATE-N-LOK_174552-1_1x04_P5.08mm_Horizontal (layer F.Cu) (tedit 5D74F687)
+(module TE_MATE-N-LOK_174552-1_1x04_P5.08mm_Horizontal (layer F.Cu) (tedit 5D74F8D8)
   (descr "TE MATE-N-LOK Wire-to-Board ATA PATA IDE 5.25 3.5 inch drive power, 4P C-MNL PIN HDR R/A, https://www.te.com/usa-en/product-174552-1.html")
   (tags "connector TE MATE-N-LOK top entry ATA PATA IDE 5.25 inch floppy drive power")
   (fp_text reference REF** (at 7.62 4.064) (layer F.SilkS)
@@ -59,7 +59,7 @@
   (pad 5 thru_hole circle (at -4.23 5.45) (size 3.5 3.5) (drill 2.3) (layers *.Cu *.Mask))
   (pad 5 thru_hole circle (at 19.47 5.45) (size 3.5 3.5) (drill 2.3) (layers *.Cu *.Mask))
   (model ${KISYSMOD}/Connector_TE-Connectivity.pretty/TE_MATE-N-LOK_174552-1_1x04_P5.08mm_Horizontal.stp
-    (at (xyz 0 0 0))
+    (offset (xyz 7.63 -10.6 4.7))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )
